@@ -1,7 +1,7 @@
-Pattern Lab Website
+Angela Wang Website
 ======================
 
-- View Site: http://patternlab.io/
-- Documentation: http://patternlab.io/docs/index.html
-- Resources: http://patternlab.io/resources.html
-- Demo: http://demo.patternlab.io/
+- View Site: http://
+- Documentation: http://
+- Resources: http://
+- Demo: http://
